@@ -1,6 +1,6 @@
 # Student Registration System with Dual Interfaces using Tkinter, Streamlit & MySQL
 
-# 🌟 Project Overview
+## 🌟 Project Overview
 
 This application is a complete Student Registration System built with both:
 
@@ -12,7 +12,7 @@ Both interfaces interact with a MySQL database to manage student records — all
 
 This project demonstrates full CRUD operations, cross-platform UI design, and real database integration.
 
-# 💡 Key Features
+## 💡 Key Features
 
 ✔ Add student (Name, Course, Fee)
 
@@ -30,7 +30,7 @@ This project demonstrates full CRUD operations, cross-platform UI design, and re
 
 ✔ Dual interface: Desktop + Web
 
-# 🗃️ Project Files
+## 🗃️ Project Files
 student-registration-dual-app/
 ```
 ├── desktop_app.py          # Tkinter Desktop GUI Code
@@ -53,7 +53,7 @@ MySQL	Database
 mysql-connector-python	Python ↔ MySQL Connection
 pandas	Data handling & CSV Export
 
-🧠 How It Works
+## 🧠 How It Works
 Desktop (Tkinter)
 
 Opens a full GUI window.
@@ -74,7 +74,7 @@ Shows all records with filter search.
 
 Allows CSV file download.
 
-💻 How to Run Locally
+## 💻 How to Run Locally
 1️⃣ Clone the repository
 ```
 git clone https://github.com/AnjaliPanduga/student-registration-dual-app.git
