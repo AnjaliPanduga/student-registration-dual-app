@@ -1,4 +1,4 @@
-## Student Registration System with Dual Interfaces using Tkinter, Streamlit & MySQL
+# Student Registration System with Dual Interfaces using Tkinter, Streamlit & MySQL
 
 # 🌟 Project Overview
 
