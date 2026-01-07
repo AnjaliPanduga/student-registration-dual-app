@@ -5,6 +5,7 @@ Student Registration System with Dual Interfaces using Tkinter, Streamlit & MySQ
 This application is a complete Student Registration System built with both:
 
 ✅ A Desktop GUI using Tkinter
+
 ✅ A Web Interface using Streamlit
 
 Both interfaces interact with a MySQL database to manage student records — allowing users to add, update, delete, search, and export student information.
