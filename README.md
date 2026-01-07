@@ -1,56 +1,96 @@
 Student Registration System with Dual Interfaces using Tkinter, Streamlit & MySQL
 
-🚀 Overview
+🌟 Project Overview
 
-This project is a centralized Student Management System powered by a MySQL backend.
-I developed two interfaces connected to the same database:
+This application is a complete Student Registration System built with both:
 
-🖥 Desktop GUI — Tkinter
+✅ A Desktop GUI using Tkinter
+✅ A Web Interface using Streamlit
 
-🌐 Web Application — Streamlit
+Both interfaces interact with a MySQL database to manage student records — allowing users to add, update, delete, search, and export student information.
 
-The project reflects real-world CRUD operations and cross-platform GUI design.
+This project demonstrates full CRUD operations, cross-platform UI design, and real database integration.
 
-✨ Features
-Desktop Interface
+💡 Key Features
 
-Auto ID Generation
+✔ Add student (Name, Course, Fee)
+✔ Update student details
+✔ Delete students
+✔ Search by name or course
+✔ Display all student records
+✔ Export to CSV in Desktop app
+✔ Download CSV in Web app
+✔ Dual interface: Desktop + Web
 
-Add / Update / Delete
+🗃️ Project Files
+student-registration-dual-app/
+├── desktop_app.py          # Tkinter Desktop GUI Code
+├── web_app.py              # Streamlit Web App Code
+├── database.sql            # MySQL Database Script
+├── requirements.txt        # Project Dependencies
+├── screenshots/            # 📸 Application Images
+│   ├── tkinter_dashboard.png
+│   ├── streamlit_home.png
+│   └── mysql_table.png
+└── README.md               # Project Documentation
 
-Live Search
 
-CSV Export
+🚀 Tech Stack
+Tool / Library	Purpose
+Python	Programming Language
+Tkinter	Desktop GUI Interface
+Streamlit	Web Interface
+MySQL	Database
+mysql-connector-python	Python ↔ MySQL Connection
+pandas	Data handling & CSV Export
+🧠 How It Works
+Desktop (Tkinter)
 
-Web Interface
+Opens a full GUI window.
 
-Form Based Entry
+User can Add, Edit, Delete student records.
 
-Bottom Table Visualization
+Search functionality filters table.
 
-CSV Download
+Export current data to a CSV file.
 
-Cloud Deployment Ready
+Web (Streamlit)
 
-🧱 Tech Stack
+Provides a modern web browser interface.
 
-Python | Tkinter | Streamlit | Pandas | MySQL Connector | MySQL Database
+Adds & updates students via forms.
 
-🛠 How to Run
+Shows all records with filter search.
+
+Allows CSV file download.
+
+💻 How to Run Locally
+1️⃣ Clone the repository
 ```
-Import the database.sql file in MySQL
+git clone https://github.com/AnjaliPanduga/student-registration-dual-app.git
+cd student-registration-dual-app
 ```
-Install dependencies:
+2️⃣ Create the database
 ```
+Import database.sql into MySQL:
+```
+mysql -u root -p
+SOURCE database.sql
+```
+3️⃣ Install Dependencies
 pip install -r requirements.txt
 ```
-
-Run Desktop App:
+4️⃣ Run the Desktop App
 ```
 python desktop_app.py
 ```
-
-Run Web App:
+5️⃣ Run the Web App
 ```
 streamlit run web_app.py
 ```
+
+
+
+
+
+`
