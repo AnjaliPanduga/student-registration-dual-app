@@ -14,12 +14,19 @@ This project demonstrates full CRUD operations, cross-platform UI design, and re
 💡 Key Features
 
 ✔ Add student (Name, Course, Fee)
+
 ✔ Update student details
+
 ✔ Delete students
+
 ✔ Search by name or course
+
 ✔ Display all student records
+
 ✔ Export to CSV in Desktop app
+
 ✔ Download CSV in Web app
+
 ✔ Dual interface: Desktop + Web
 
 🗃️ Project Files
@@ -44,6 +51,7 @@ Streamlit	Web Interface
 MySQL	Database
 mysql-connector-python	Python ↔ MySQL Connection
 pandas	Data handling & CSV Export
+
 🧠 How It Works
 Desktop (Tkinter)
 
