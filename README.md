@@ -24,6 +24,7 @@ This project demonstrates full CRUD operations, cross-platform UI design, and re
 
 🗃️ Project Files
 student-registration-dual-app/
+```
 ├── desktop_app.py          # Tkinter Desktop GUI Code
 ├── web_app.py              # Streamlit Web App Code
 ├── database.sql            # MySQL Database Script
@@ -34,7 +35,7 @@ student-registration-dual-app/
 │   └── mysql_table.png
 └── README.md               # Project Documentation
 
-
+```
 🚀 Tech Stack
 Tool / Library	Purpose
 Python	Programming Language
