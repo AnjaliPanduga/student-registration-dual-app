@@ -30,6 +30,15 @@ This project demonstrates full CRUD operations, cross-platform UI design, and re
 
 ✔ Dual interface: Desktop + Web
 
+---
+## 🛠️ Tech Stack
+- Python
+- Tkinter
+- Streamlit
+- MySQL
+- Pandas
+- MySQL Connector / Python
+
 ## 🗃️ Project Files
 student-registration-dual-app/
 ```
