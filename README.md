@@ -38,7 +38,7 @@ This project demonstrates full CRUD operations, cross-platform UI design, and re
 - MySQL
 - Pandas
 - MySQL Connector / Python
-
+---
 ## 🗃️ Project Files
 student-registration-dual-app/
 ```
@@ -53,14 +53,6 @@ student-registration-dual-app/
 └── README.md               # Project Documentation
 
 ```
-🚀 Tech Stack
-Tool / Library	Purpose
-Python	Programming Language
-Tkinter	Desktop GUI Interface
-Streamlit	Web Interface
-MySQL	Database
-mysql-connector-python	Python ↔ MySQL Connection
-pandas	Data handling & CSV Export
 
 ## 🧠 How It Works
 Desktop (Tkinter)
