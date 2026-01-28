@@ -100,7 +100,9 @@ streamlit run web_app.py
 ```
 
 👩‍💻 Author
+
 Anjali Panduga
+
 📧 Email: pandugaanjali2003@gmail.com
 🔗 GitHub: https://github.com/AnjaliPanduga
 
